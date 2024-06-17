@@ -1,6 +1,6 @@
 # Machine Learning Algorithms Implementation
 
-This repository contains the implementation of various machine learning algorithms and techniques as part of the CSE 6363 Machine Learning course assignments. The primary focus is on Linear Regression and Classification methods, including Logistic Regression and Linear Discriminant Analysis (LDA).
+This repository contains the implementation of various machine learning algorithms and techniques. The primary focus is on Linear Regression and Classification methods, including Logistic Regression and Linear Discriminant Analysis (LDA).
 
 ## Table of Contents
 - [Project Overview](#project-overview)
